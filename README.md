@@ -10,7 +10,7 @@
 ### 1. Clone the Repository
 
 ```
-git clone <ssh>
+git clone git@github.com:cup-noodlehS/referrin-web.git
 cd referrin-web
 ```
 
